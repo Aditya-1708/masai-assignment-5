@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: masai-assignment-5
+  profiles:
+    default: dev
+  jpa:
+    hibernate:
+      ddl-auto: none
+    open-in-view: false
